@@ -13,17 +13,21 @@
 # Programmins
 ## C++ 
 *Online/courses*
+
 *Books*
 - https://www.bsuir.by/m/12_100229_1_98220.pdf
 
 ## Python
 *Online/courses*
+
 *Books*
 
 ## Go
 *Online/courses*
+
 *Books*
 
 ## Java
 *Online/courses*
+
 *Books*
