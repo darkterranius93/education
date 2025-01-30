@@ -16,7 +16,7 @@
 *Online/courses*
 
 *Books*
-- [Герберт Шилдт: С++ базовый курс](Programming/C++/Books/12_100229_1_98220.pdf) https://www.bsuir.by/m/12_100229_1_98220.pdf
+- [Герберт Шилдт: С++ базовый курс](Programming/C++/Books/12_100229_1_98220.pdf) (https://www.bsuir.by/m/12_100229_1_98220.pdf)
 
 ## Python
 *Online/courses*
