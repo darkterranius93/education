@@ -12,6 +12,12 @@
 
 
 # Programmins
+## Operation systems
+*Online/courses:*
+
+*Books:*
+- [Операционные системы (МГУ, Кузнецов Сергей Дмитриевич)](Programming/Operation Systems/Books/Операционные%20системы%20(МГУ,%20Кузнецов Сергей%20Дмитриевич).pdf). Source: https://teach-in.ru/file/synopsis/pdf/operating-systems-kuznetsov-M.pdf
+
 ## C++ 
 *Online/courses:*
 
