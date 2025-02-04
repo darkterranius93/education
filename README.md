@@ -1,3 +1,10 @@
+# Выебимозг (матан)
+*Online/courses*
+- [МФТИ, Высшая математика. Математический анализ](https://courses.mipt.ru/course/view/43)
+
+*Books:*
+- 
+
 # Languages
 ## English
 *Online/courses*
