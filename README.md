@@ -52,7 +52,7 @@
 
 *Books:*
 - [Герберт Шилдт: С++ базовый курс](Programming/C++/Books/12_100229_1_98220.pdf).\
-  <sub>Source: https://www.bsuir.by/m/12_100229_1_98220.pdf<\sub>
+  <sub>Source: https://www.bsuir.by/m/12_100229_1_98220.pdf</sub>
 
 ## Python
 *Online/courses:*
