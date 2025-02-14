@@ -13,9 +13,7 @@
 # Языки
 ## Английский
 *Курсы/лекции:*
-- https://www.oxfordonlineenglish.com/free-english-lessons
-- https://learnenglish.britishcouncil.org/
-- https://skyeng.ru
+- https://www.duolingo.com
 
 ## Deutsch
 *Курсы/лекции:*
